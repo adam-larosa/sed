@@ -1,5 +1,6 @@
-const squareDigits = require('../sed.js')
-const { assert } = require("chai")
+import squareDigits from '../sed.js'
+
+import { assert } from 'chai'
 
 describe("Does it work?", () => {
   

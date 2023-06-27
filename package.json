@@ -1,5 +1,6 @@
 {
   "name": "square-every-digit",
+  "type": "module",
   "version": "1.0.0",
   "description": "An algo to square every digit in a number",
   "main": "index.js",

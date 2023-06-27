@@ -9,4 +9,4 @@ function squareDigits( theInteger ) {
 
 
 
-module.exports = squareDigits;
+export default squareDigits;
