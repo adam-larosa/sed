@@ -1,4 +1,4 @@
-Square Every Digit
+# Square Every Digit
 
 You are asked to square every digit of a number and concatenate them.
 
@@ -9,3 +9,5 @@ Example #2: An input of 765 will/should return 493625 because 7 squared is 49,
 6 squared is 36, and 5 squared is 25. (49-36-25)
 
 Note: The function accepts an integer and should return an integer.
+
+### Running `npm test` can test your solution.
