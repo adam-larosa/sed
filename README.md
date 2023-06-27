@@ -1,5 +1,9 @@
 # Square Every Digit
 
+## Setup
+Running `npm install` will allow us to run the tests
+
+## Deliverables
 You are asked to square every digit of a number and concatenate them.
 
 For example, if we run 9119 through the function, 811181 will come out, 
